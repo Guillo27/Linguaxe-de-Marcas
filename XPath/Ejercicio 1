@@ -1,0 +1,17 @@
+Ejercicio 1→//máquina
+
+Ejercicio 2→//hardware
+
+Ejercicio 3→//config
+
+Ejercicio 4→//fabricante
+
+Ejercicio 5→//disco
+
+Ejercicio 6→//IP
+
+Ejercicio 7->/equipos/máquina/@nome
+
+Ejercicio 8->/equipos/máquina[hardware/gravadora[@tipo='DVD']]/@nome
+
+Ejercicio 9->/equipos/máquina[config/role]/config/OS
