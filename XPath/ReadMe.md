@@ -1,2 +1,2 @@
-<h1 style="SlateBlue;"><i>EJERCICIOS XPATH</i></h1>
+<h1><i>EJERCICIOS XPATH</i></h1>
 
