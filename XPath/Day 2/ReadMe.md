@@ -1,1 +1,1 @@
-<h1>EJERCICIOS DÍA 2</h1>
+<h1><i>EJERCICIOS DÍA 2</i></h1>
