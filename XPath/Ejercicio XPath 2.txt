@@ -1,0 +1,11 @@
+Ejercicio 1->/equipos/máquina/hardware/disco[@tecnoloxía='SCSI']
+
+Ejercicio 2->/equipos/máquina[config/IP='192.168.10.45']/config/OS
+
+Ejercicio 3->/equipos/máquina/hardware/procesador[@marca='AMD']/@*
+
+Ejercicio 4->/equipos/máquina[@nome='COPERNICO']/config/role/text()
+
+Ejercicio 5->/equipos/máquina[tipo='Semitorre' and config/OS='Windows XP']/@nome
+
+
