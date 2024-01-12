@@ -4,4 +4,4 @@
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/s5Gkw90/rana-gustavo.gif" alt="rana-gustavo" border="0"></a>
 
-<img width="600" height="600" alt="Banner" src=https://i.gifer.com/4Snl.gif>
+<a href="https://ibb.co/fxLt3hb"><img src="https://i.ibb.co/Jsg2YfN/banana-dance.gif" alt="banana-dance" border="0"></a>
