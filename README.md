@@ -2,4 +2,4 @@
 
 <h1><i>Repositorio de Linguaxes de Marcas</h1></i>
 
-<gif width="1920" height="300" alt="Banner" src=https://ibb.co/KNkRqxM>
+<gif width="600" height="600" alt="Banner" src=https://ibb.co/KNkRqxM>
