@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Matrícula ASIR</title>
+</head>
+<body>
+    <h1>
+        Matrícula ASIR
+    </h1>
+    <form action="index.html" method="get">
+        <p>
+            Nombre: <input type="text" name="nombre" maxlength="50"> <br>
+        </p>
+
+        <p>
+            Apellidos: <input type="text" name="apellidos" maxlength="50"> <br>
+        </p>
+
+    <p>  
+    <fieldset>
+        <legend>
+            Género 
+        </legend>
+
+        <form action="">
+            <input type="radio" name="sexo" value="femenino"/>Femenino 
+            <input type="radio" name="sexo" value="masculino"/>Masculino 
+            <input type="radio" name="sexo" value="no binario"/>No binario <br>
+        </form>
+    
+    </fieldset>
+    </p>  
+
+    <p>
+    <fieldset>
+        <legend>
+            Fecha de nacimiento
+        </legend>
+        
+        <form action="">
+            Día <input type="number" id="dia" name="dia" min="1" max="31" required>
+            Mes <input type="number" id="mes" name="mes" min="1" max="12" required>
+            Año <input type="number" id="año" name="año" min="0" max="2024" required>
+        </form>
+
+    </fieldset>
+    </p>
+
+    <p>
+    <fieldset>
+        <legend>
+            Escoge los módulos en los que te matriculas
+        </legend>
+        
+        <input type="checkbox"> Fundamentos de hardware <br>
+        <input type="checkbox"> Servicios de red e internet <br>
+        <input type="checkbox"> Gestión de bases de datos <br>
+        <input type="checkbox"> Administración de sistemas operativos <br>
+        <input type="checkbox"> Implantación de sistemas operativos <br>
+        <input type="checkbox"> Implantación de aplicaciones web <br>
+        <input type="checkbox"> Planificación y administración de redes <br>
+        <input type="checkbox"> Administración de sistemas gestores de bases de datos <br>
+        <input type="checkbox"> Lenguajes de marcas y sistemas de gestión de información <br>
+        <input type="checkbox"> Seguridad y alta disponibilidad <br>
+        <input type="checkbox"> Formación y orientación laboral <br>
+        <input type="checkbox"> Empresa e iniciativa emprendedora <br>
+        <input type="checkbox"> Proyecto de Administración de Sistemas Informáticos en Red <br>
+        <input type="checkbox"> Formación en centros de trabajo <br>
+         
+    </fieldset>
+    </p>
+
+    <p>
+        Estudios previstos: <br>
+        <input type="text" style="width: 380px; height: 100px;">
+    </p>
+
+    <p>
+        <input type="submit"> 
+        <input type="reset">
+    </p>
+
+    <strong>Pulsa el botón de "enviar" para formalizar la matrícula o el boton de "restablecer"
+        para limpiar el formulario.</strong>
+
+
+    </form>
+</body>
+</html>
