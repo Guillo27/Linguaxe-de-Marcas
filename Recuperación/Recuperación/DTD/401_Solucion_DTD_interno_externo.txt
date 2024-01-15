@@ -1,0 +1,29 @@
+Solución utilizando un DTD externo:
+
+XML
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE libro SYSTEM "401.dtd">
+<libro>
+  <autor>Miguel de Cervantes Saavedra</autor>
+  <titulo>El Quijote de la Mancha</titulo>
+</libro>
+
+401.dtd
+<!ELEMENT libro (autor, titulo)>
+<!ELEMENT autor (#PCDATA)>
+<!ELEMENT titulo (#PCDATA)>
+
+
+Solución utilizando un DTD interno:
+
+XML
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE libro [
+  <!ELEMENT libro (autor, titulo)>
+  <!ELEMENT autor (#PCDATA)>
+  <!ELEMENT titulo (#PCDATA)>
+]>
+<libro>
+  <autor>Miguel de Cervantes Saavedra</autor>
+  <titulo>El Quijote de la Mancha</titulo>
+</libro>

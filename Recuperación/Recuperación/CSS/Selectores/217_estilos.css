@@ -1,0 +1,37 @@
+/* Todos los elementos de la pagina */
+ {
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Todos los parrafos de la pagina */
+ {
+  color: #555;
+}
+
+/* Todos los párrafos contenidos en #primero */
+ {
+  color: #369;
+}
+
+/* Todos los enlaces la pagina */
+ {
+  color: #c30;
+}
+
+/* Los elementos <em> contenidos en #primero */
+ {
+  color: #0000bb;
+  background-color: #ffffcc;
+}
+
+/* Todos los elementos <em> con la clase "especial" en toda la pagina */
+ {
+  color: #ffff00;
+  background: #000000;
+}
+
+/* Todos los elementos <span> contenidos en la clase "normal" */
+ {
+  font-weight: bold;
+}
