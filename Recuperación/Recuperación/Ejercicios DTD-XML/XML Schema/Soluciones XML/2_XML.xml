@@ -1,0 +1,18 @@
+<!-- archivoXSD.xsd -->
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <!-- Definición del elemento nota -->
+  <xs:element name="nota">
+    <xs:complexType>
+      <xs:sequence>
+        <!-- Elementos permitidos en el orden especificado -->
+        <xs:element name="para" type="xs:string"/>
+        <xs:element name="de" type="xs:string"/>
+        <xs:element name="titulo" type="xs:string"/>
+        <xs:element name="contenido" type="xs:string"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+</xs:schema>
