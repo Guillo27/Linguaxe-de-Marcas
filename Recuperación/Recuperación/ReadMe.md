@@ -1,1 +1,1 @@
-<h1>Ejercicios de HTML-CSS-XML</h1>
+<h1>Ejercicios de HTML-CSS-DTD-XML</h1>
