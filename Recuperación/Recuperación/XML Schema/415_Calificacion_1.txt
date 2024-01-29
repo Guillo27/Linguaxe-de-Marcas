@@ -1,5 +1,0 @@
-Elabora un documento XSD que permita validar el siguiente documento XML:
-
-<calificacion>9.5</calificacion>
-
-El contenido del elemento <calificacion> será un número entre 0 y 10. Puede tener como máximo una cifra decimal.
