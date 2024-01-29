@@ -1,4 +1,0 @@
-Consideraciones:
-* Puedes modificar el documento HTML proporcionado para añadir los identificadores y clases necesarias.
-* En la tabla se indican los nombres de los colores que debes emplear.
-* Utiliza la mínima cantidad posible de reglas y selectores de CSS.

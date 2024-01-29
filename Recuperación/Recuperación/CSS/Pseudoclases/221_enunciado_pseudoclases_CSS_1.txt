@@ -1,8 +1,0 @@
-Crea una página web que tenga el mismo aspecto que la imagen inicial.
-
-Se debe mostrar un borde sólido de color rojo cuando el cursor del ratón se sitúe encima de un elemento de la lista o cuando un elemento de la lista reciba el foco del teclado. 
-
-En la imagen final se muestra el resultado del efecto.
-
-
-
