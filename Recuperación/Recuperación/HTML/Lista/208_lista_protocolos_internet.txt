@@ -1,3 +1,0 @@
-A partir del texto proporcionado, crea una página web que tenga el mismo aspecto que la imagen.
-
-Selecciona, para cada lista, el mejor tipo de lista.
