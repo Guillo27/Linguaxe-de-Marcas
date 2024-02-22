@@ -1,0 +1,9 @@
+A partir del documento HTML proporcionado, escribe las reglas CSS necesarias para lograr una página web que tenga el siguiente funcionamiento:
+1) En su estado normal, un enlace se muestra de color rojo y sin subrayado (propiedad text-decoration).
+2) Cuando el usuario o usuaria sitúa el cursor del ratón sobre un enlace, se invierten los colores (el texto del enlace se muestra con color blanco sobre un fondo rojo) y se muestra el subrayado.
+3) Cuando un enlace está activo, se muestra de color naranja y sin subrayado.
+4) Cuando un enlace ha sido visitado, se muestra de color verde oscuro y sin subrayado.
+5) Cuando un enlace tiene el foco del teclado, se muestra de color azul y en negrita.
+
+NOTA
+El orden de escritura de las reglas influye en el resultado final, ya que un enlace puede estar en varios estados al mismo tiempo.

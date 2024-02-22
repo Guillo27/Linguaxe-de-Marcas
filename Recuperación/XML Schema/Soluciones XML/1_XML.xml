@@ -1,0 +1,16 @@
+<!-- archivoXSD.xsd -->
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <!-- Definición del elemento dispositivo -->
+  <xs:element name="dispositivo">
+    <xs:simpleType>
+      <!-- Restricción para permitir solo los valores 'conectado' u 'ocupado' -->
+      <xs:restriction base="xs:string">
+        <xs:enumeration value="conectado"/>
+        <xs:enumeration value="ocupado"/>
+      </xs:restriction>
+    </xs:simpleType>
+  </xs:element>
+
+</xs:schema>

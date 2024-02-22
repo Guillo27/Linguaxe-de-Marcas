@@ -1,0 +1,30 @@
+.link1:link {
+
+    color: red;
+    text-decoration: none;
+
+}
+/*Enlace no visitado*/
+
+.link1:visited {
+
+    color: darkgreen;
+
+}
+/*Enlace visitado*/
+
+.link1:hover {
+
+    color: #FFF;
+    background-color: #F00;
+    text-decoration: underline;
+
+}
+/*Usuario sobre el enlace*/
+
+.link1:active {
+
+    color: orange;
+
+}
+/*Enlaces activos*/

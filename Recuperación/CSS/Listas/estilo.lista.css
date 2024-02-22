@@ -1,0 +1,34 @@
+.título {
+
+    border-bottom: 2px solid #00F;
+
+}
+
+.caja1  {
+
+    border: 2px solid #AAA;
+
+}
+
+.datos {
+    border-top: 4px dotted #F00;
+    border-bottom: 4px dotted #F00;
+}
+
+.caja2  {
+
+    border: 2px solid #AAA;
+
+}
+
+.caja3  {
+
+    border: 2px solid #AAA;
+
+}
+
+.contenidos  {
+
+    border: 2px dashed #0f0;
+
+}
